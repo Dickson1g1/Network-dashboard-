@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-03-11T22:18:36.867608",
+  "devices": [
+    {
+      "ip": "Interface:",
+      "mac": "eth0,",
+      "vendor": "type: EN10MB, MAC: 00:0c:29:0d:f7:e6, IPv4: 192.168.11.142"
+    },
+    {
+      "ip": "Starting",
+      "mac": "arp-scan",
+      "vendor": "1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)"
+    },
+    {
+      "ip": "192.168.11.1",
+      "mac": "00:50:56:c0:00:08",
+      "vendor": "VMware, Inc."
+    },
+    {
+      "ip": "192.168.11.2",
+      "mac": "00:50:56:e3:36:18",
+      "vendor": "VMware, Inc."
+    },
+    {
+      "ip": "192.168.11.143",
+      "mac": "00:0c:29:0b:72:a5",
+      "vendor": "VMware, Inc."
+    },
+    {
+      "ip": "192.168.11.254",
+      "mac": "00:50:56:f6:92:2e",
+      "vendor": "VMware, Inc."
+    },
+    {
+      "ip": "Ending",
+      "mac": "arp-scan",
+      "vendor": "1.10.0: 256 hosts scanned in 1.958 seconds (130.75 hosts/sec). 4 responded"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-03-10T22:24:42.468877",
+  "results": [
+    {
+      "ip": "192.168.11.2",
+      "ports": [
+        {
+          "port": "53",
+          "protocol": "tcp",
+          "state": "open",
+          "service": "domain",
+          "info": "dnsmasq 2.83"
+        }
+      ],
+      "os_guess": "Aggressive OS guesses: VMware Player virtual NAT device (98%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (93%), DD-WRT v24-sp2 (Linux 2.4.37) (91%), Microsoft Windows XP SP3 (91%), Actiontec MI424WR-GEN3I WAP (91%), Linux 3.2 (90%), DVTel DVT-9540DW network camera (89%), BlueArc Titan 2100 NAS device (88%), Linux 4.4 (88%)"
+    },
+    {
+      "ip": null,
+      "ports": [],
+      "os_guess": null
+    },
+    {
+      "ip": null,
+      "ports": [],
+      "os_guess": null
+    },
+    {
+      "ip": "192.168.11.142",
+      "ports": [
+        {
+          "port": "22",
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ssh",
+          "info": "OpenSSH 10.2p1 Debian 3 (protocol 2.0)"
+        }
+      ],
+      "os_guess": "OS details: Linux 5.0 - 6.2"
+    },
+    {
+      "ip": "192.168.11.147",
+      "ports": [],
+      "os_guess": null
+    }
+  ]
+}

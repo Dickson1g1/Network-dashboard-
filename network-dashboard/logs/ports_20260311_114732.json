@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-03-11T11:47:32.026720",
+  "results": [
+    {
+      "ip": "192.168.11.2",
+      "ports": [],
+      "os_guess": "OS details: VMware Player virtual NAT device"
+    },
+    {
+      "ip": null,
+      "ports": [],
+      "os_guess": null
+    },
+    {
+      "ip": null,
+      "ports": [],
+      "os_guess": null
+    },
+    {
+      "ip": "192.168.11.142",
+      "ports": [
+        {
+          "port": "22",
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ssh",
+          "info": "OpenSSH 10.2p1 Debian 3 (protocol 2.0)"
+        }
+      ],
+      "os_guess": "OS details: Linux 5.0 - 6.2"
+    },
+    {
+      "ip": "192.168.11.147",
+      "ports": [],
+      "os_guess": null
+    }
+  ]
+}

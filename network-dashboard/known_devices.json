@@ -1,0 +1,32 @@
+{
+  "eth0,": {
+    "ip": "Interface:",
+    "mac": "eth0,",
+    "vendor": "type: EN10MB, MAC: 00:0c:29:0d:f7:e6, IPv4: 192.168.11.142"
+  },
+  "arp-scan": {
+    "ip": "Starting",
+    "mac": "arp-scan",
+    "vendor": "1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)"
+  },
+  "00:50:56:c0:00:08": {
+    "ip": "192.168.11.1",
+    "mac": "00:50:56:c0:00:08",
+    "vendor": "VMware, Inc."
+  },
+  "00:50:56:e3:36:18": {
+    "ip": "192.168.11.2",
+    "mac": "00:50:56:e3:36:18",
+    "vendor": "VMware, Inc."
+  },
+  "00:0c:29:1b:ff:af": {
+    "ip": "192.168.11.147",
+    "mac": "00:0c:29:1b:ff:af",
+    "vendor": "VMware, Inc."
+  },
+  "00:50:56:f6:92:2e": {
+    "ip": "192.168.11.254",
+    "mac": "00:50:56:f6:92:2e",
+    "vendor": "VMware, Inc."
+  }
+}

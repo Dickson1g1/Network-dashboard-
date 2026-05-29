@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-03-10T23:47:19.054163",
+  "analysis": {
+    "protocols": {
+      "OTHER": 106,
+      "ARP": 48,
+      "UDP": 29,
+      "ICMP": 17
+    },
+    "sources": {}
+  }
+}
